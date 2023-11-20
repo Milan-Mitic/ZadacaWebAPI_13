@@ -1,0 +1,15 @@
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\bin\Debug\net6.0\SEDC.NotesApp.Domain.deps.json
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\bin\Debug\net6.0\SEDC.NotesApp.Domain.runtimeconfig.json
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\bin\Debug\net6.0\SEDC.NotesApp.Domain.dll
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\bin\Debug\net6.0\SEDC.NotesApp.Domain.pdb
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.AssemblyInfo.cs
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.sourcelink.json
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.dll
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\refint\SEDC.NotesApp.Domain.dll
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.pdb
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\SEDC.NotesApp.Domain.genruntimeconfig.cache
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Domain\obj\Debug\net6.0\ref\SEDC.NotesApp.Domain.dll
