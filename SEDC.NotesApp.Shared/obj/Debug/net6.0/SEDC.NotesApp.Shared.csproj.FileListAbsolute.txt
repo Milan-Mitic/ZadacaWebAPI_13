@@ -1,0 +1,12 @@
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\bin\Debug\net6.0\SEDC.NotesApp.Shared.deps.json
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\bin\Debug\net6.0\SEDC.NotesApp.Shared.dll
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\bin\Debug\net6.0\SEDC.NotesApp.Shared.pdb
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.AssemblyInfo.cs
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.sourcelink.json
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.dll
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\refint\SEDC.NotesApp.Shared.dll
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.pdb
+C:\Users\Milan\source\repos\rsbawd01-09-aspnetwebapiClass13\Class13\SEDC.NotesApp.Shared\obj\Debug\net6.0\ref\SEDC.NotesApp.Shared.dll
